@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6551440112814870550
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1637644023397736, guid: 1d7b5ad22bce3477cbbf0ed19dc7e4dd,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6551440112814870551}
+  - component: {fileID: 6551440112814870548}
+  m_Layer: 0
+  m_Name: 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6551440112814870551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4934912607437858, guid: 1d7b5ad22bce3477cbbf0ed19dc7e4dd,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6551440112814870550}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6551440112814870548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114408541152908264, guid: 1d7b5ad22bce3477cbbf0ed19dc7e4dd,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6551440112814870550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9dbbe0a9162d4ea08b6fb9ee3a23ade, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnInstructions:
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 0
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 3
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 3
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 3
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 0.5
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 0.5
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 3.5
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 0.5
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 0.5
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 2
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 3
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: f288f6c0804db40c393d7c70b6cca646,
+      type: 2}
+    delayToSpawn: 0.25
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 0.5
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: f288f6c0804db40c393d7c70b6cca646,
+      type: 2}
+    delayToSpawn: 3
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 98b0a9cdbcd30464387e82fa5c2052a1,
+      type: 2}
+    delayToSpawn: 3
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 57816016cc4b94e069d9d8a6add55324,
+      type: 2}
+    delayToSpawn: 3
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 98b0a9cdbcd30464387e82fa5c2052a1,
+      type: 2}
+    delayToSpawn: 4
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 57816016cc4b94e069d9d8a6add55324,
+      type: 2}
+    delayToSpawn: 6
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 4
+    startingNode: {fileID: 0}
+  - agentConfiguration: {fileID: 11400000, guid: 194678e37891244b78d3ad8b21d3f878,
+      type: 2}
+    delayToSpawn: 0.5
+    startingNode: {fileID: 0}
+  timeToNextWave: 55

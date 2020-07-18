@@ -1,0 +1,105 @@
+{
+	"textos": [
+		{
+			"id": "MainMenuSubtitulo",
+			"contenido": "DEFIENDE LA BASE"
+		}, 
+		{
+			"id": "MainMenuCampaign",
+			"contenido": "CAMPAÑA"
+		},
+		{
+			"id": "MainMenuInfinite",
+			"contenido": "MODO INFINITO"
+		},
+		{
+			"id": "MainMenuSettings",
+			"contenido": "AJUSTES"
+		},
+		{
+			"id": "MainMenuQuit",
+			"contenido": "SALIR"
+		},
+		{
+			"id": "MainMenuFoot",
+			"contenido": "Estás jugando a un prototipo. Haz clic para más información"
+		},
+		
+		
+		{
+			"id": "SettingsMasterVolume",
+			"contenido": "VOLUMEN PRINCIPAL"
+		},
+		{
+			"id": "SettingsSFXVolume",
+			"contenido": "VOLUMEN SFX"
+		},
+		{
+			"id": "SettingsMusicVolume",
+			"contenido": "VOLUMEN MÚSICA"
+		},
+		{
+			"id": "SettingsCollab",
+			"contenido": "Proyecto de código abierto"
+		},
+
+		
+		{
+			"id": "Pause",
+			"contenido": "PAUSA"
+		},
+		{
+			"id": "MainMenu",
+			"contenido": "MENÚ PRINCIPAL"
+		},
+		{
+			"id": "Restart",
+			"contenido": "REINICIAR"
+		},
+		{
+			"id": "Confirm",
+			"contenido": "CONFIRMAR"
+		},
+		{
+			"id": "StartWave",
+			"contenido": "INICIAR OLEADA"
+		},
+		{
+			"id": "Wave",
+			"contenido": "OLEADA"
+		},
+		{
+			"id": "NextFailed",
+			"contenido": "SIGUIENTE NIVEL"
+		},
+		{
+			"id": "LevelFailed",
+			"contenido": "¡NIVEL FALLADO!"
+		},
+		{
+			"id": "Upgrade",
+			"contenido": "MEJORAR"
+		},
+		{
+			"id": "Sell",
+			"contenido": "VENDER"
+		},
+		{
+			"id": "Play",
+			"contenido": "JUGAR"
+		},
+
+		{
+			"id": "Abilities",
+			"contenido": "HABILIDADES"
+		},
+		{
+			"id": "Unlock",
+			"contenido": "DESBLOQUEAR"
+		},
+		{
+			"id": "Buy",
+			"contenido": "COMPRAR"
+		}
+	]
+}

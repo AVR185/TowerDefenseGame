@@ -1,0 +1,111 @@
+{
+	"textos": [
+		{
+			"id": "MainMenuSubtitulo",
+			"contenido": "DEFEND YOUR BASE"
+		}, 
+		{
+			"id": "MainMenuCampaign",
+			"contenido": "CAMPAIGN"
+		},
+		{
+			"id": "MainMenuInfinite",
+			"contenido": "INFINITE MODE"
+		},
+		{
+			"id": "MainMenuSettings",
+			"contenido": "SETTINGS"
+		},
+		{
+			"id": "MainMenuQuit",
+			"contenido": "QUIT"
+		},
+		{
+			"id": "MainMenuFoot",
+			"contenido": "This is a prototype. Click here for more information."
+		},
+		
+		
+		{
+			"id": "SettingsMasterVolume",
+			"contenido": "MASTER VOLUME"
+		},
+		{
+			"id": "SettingsSFXVolume",
+			"contenido": "SFX VOLUME"
+		},
+		{
+			"id": "SettingsMusicVolume",
+			"contenido": "MUSIC VOLUME"
+		},
+		{
+			"id": "SettingsCollab",
+			"contenido": "Open source project"
+		},
+
+
+		
+		{
+			"id": "Pause",
+			"contenido": "PAUSE"
+		},
+		{
+			"id": "MainMenu",
+			"contenido": "MAIN MENU"
+		},
+		{
+			"id": "Restart",
+			"contenido": "RESTART"
+		},
+		{
+			"id":"Confirm",
+			"contenido": "CONFIRM"
+		},
+
+
+		{
+			"id": "Wave",
+			"contenido": "WAVE"
+		},
+		{
+			"id": "StartWave",
+			"contenido": "START WAVE"
+		},
+
+
+
+		{
+			"id": "NextFailed",
+			"contenido": "NEXT LEVEL"
+		},
+		{
+			"id": "LevelFailed",
+			"contenido": "LEVEL FAILED!"
+		},
+		{
+			"id": "Upgrade",
+			"contenido": "UPGRADE"
+		},
+		{
+			"id": "Sell",
+			"contenido": "SELL"
+		},
+		{
+			"id": "Play",
+			"contenido": "PLAY"
+		},
+
+		{
+			"id": "Abilities",
+			"contenido": "ABILITIES"
+		},
+		{
+			"id": "Unlock",
+			"contenido": "UNLOCK"
+		},
+		{
+			"id": "Buy",
+			"contenido": "BUY"
+		}
+	]
+}

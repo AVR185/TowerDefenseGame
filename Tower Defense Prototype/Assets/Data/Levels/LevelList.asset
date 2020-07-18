@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7501bbf02d6a475e897f4d07ff3fdc1, type: 3}
+  m_Name: LevelList
+  m_EditorClassIdentifier: 
+  levels:
+  - id: 0
+    name: Level 1
+    spanishName: Nivel 1
+    description: Don't allow enemies to rush through
+    spanishDescription: No permitas a los enemigos atravesar tus defensas
+    sceneName: Level1
+  - id: 1
+    name: Level 2
+    spanishName: Nivel 2
+    description: Create mazes to slow enemies
+    spanishDescription: Crea laberintos para ralentizar a los enemigos
+    sceneName: Level2
+  - id: 2
+    name: Level 3
+    spanishName: Nivel 3
+    description: Take advantage of choke points
+    spanishDescription: Aprovecha los puntos de estrangulamiento
+    sceneName: Level3
+  - id: 3
+    name: Level 4
+    spanishName: Nivel 4
+    description: Protect the long mountain pass
+    spanishDescription: "Proteje el largo paso entre las monta\xF1as"
+    sceneName: Level4
+  - id: 4
+    name: Level 5
+    spanishName: Nivel 5
+    description: Guard both paths from enemies
+    spanishDescription: Proteje todos los caminos de los enemigos
+    sceneName: Level5
